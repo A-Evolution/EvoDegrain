@@ -1,6 +1,6 @@
 import vapoursynth as vs
-import mvsfunc as mvf
-from vsutil import depth
+import mvsfunc as mvf #https://github.com/HomeOfVapourSynthEvolution/mvsfunc
+from vsutil import depth #https://github.com/Irrational-Encoding-Wizardry/vsutil
 
 core = vs.core
 
